@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-rdl0m4.evergrowadvisor.com/sitemap.xml
